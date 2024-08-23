@@ -4,7 +4,7 @@
 <img width="309" alt="image" src="https://github.com/user-attachments/assets/604d7994-56a8-4544-b268-13a848fa43d1">
 
 
-The **IdentityVerification** smart contract aims to provide a decentralized and secure method for managing and verifying identities on the Ethereum blockchain. By leveraging smart contracts, this system ensures that user identities are recorded immutably and can be verified transparently, which is essential for various digital interactions and services.
+The **IdentityVerification** smart contract aims to provide a decentralized and secure method for managing and verifying identities on the Educhain blockchain. By leveraging smart contracts, this system ensures that user identities are recorded immutably and can be verified transparently, which is essential for various digital interactions and services.
 
 ## Flowchart
 
